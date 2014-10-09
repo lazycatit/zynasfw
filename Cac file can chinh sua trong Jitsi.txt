@@ -1,0 +1,16 @@
+//--HauLT Test--//
+
+--Cac file can chinh sua
+MetaContactRightButtonMenu.java
+ContactListTreeCellRenderer.java
+
+GeneralDialPadDialog.java -- La noi hien thi bam so cuoc goi
+DialPadButton.java -- La noi hien thi button quay so
+CallManager.java -- Quan ly cuoc goi
+
+--nhan cuoc goi Goi vao 309
+
+--Ham thuc hien cuoc goi trong GeneralDialPadDialog
+ callButton.addActionListener(new ActionListener())
+ 
+ java -cp D:\Project\VoIP\TooTallNate-Java-WebSocket-Java-WebSocket-1.3.0-41-g05d2e2e\TooTallNate-Java-WebSocket-05d2e2e\build\examples;D:\Project\VoIP\TooTallNate-Java-WebSocket-Java-WebSocket-1.3.0-41-g05d2e2e\TooTallNate-Java-WebSocket-05d2e2e\dist\java_websocket.jar
